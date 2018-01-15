@@ -1,0 +1,15 @@
+.loadImg{
+    width: 16px;
+    height: 16px;
+    background: url("../images/ajax-loader.gif");
+    float: left;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+.loadImgBig{
+    width: 54px;
+    height: 55px;
+    background: url("../images/54x55-circleball-001.gif");
+    margin: 10px auto;
+    vertical-align: middle;
+}
